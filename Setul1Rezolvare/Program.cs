@@ -49,7 +49,7 @@ namespace Setul1Rezolvare
 
         private static void PB21()
         {
-            //21.	Ghiciti un numar intre 1 si 1024 prin intrebari de forma "numarul este mai mare sau egal decat x?". 
+            //Ghiciti un numar intre 1 si 1024 prin intrebari de forma "numarul este mai mare sau egal decat x?". 
             int ls = 0;
             int ld = 1025;
             int mid = (ls + ld) / 2;
